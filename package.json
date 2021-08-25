@@ -23,8 +23,6 @@
   },
   "homepage": "https://github.com/slebetman/clipshare#readme",
   "dependencies": {
-    "clipboardy": "^2.3.0",
-    "connect": "^3.7.0",
-    "node-fetch": "^2.6.1"
+    "clipboardy": "^2.3.0"
   }
 }
