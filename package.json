@@ -1,0 +1,25 @@
+{
+  "name": "clipshare",
+  "version": "1.0.0",
+  "description": "Share clipboard over the network",
+  "main": "clipshare.js",
+  "bin": {
+  	"clipshare":"./clipshare.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slebetman/clipshare.git"
+  },
+  "keywords": [
+    "clipboard"
+  ],
+  "author": "slebetman@gmail.com",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/slebetman/clipshare/issues"
+  },
+  "homepage": "https://github.com/slebetman/clipshare#readme"
+}
